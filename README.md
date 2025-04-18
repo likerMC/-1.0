@@ -1,5 +1,5 @@
 在使用树场的时候不要连点 如果需要挂机或者挂假人的话请调低cps¹
-if you are using the tree farm and afking(inclding afk bots), please decrease the cps.spam clicking might result in broken machine
+if you are using the tree farm and afking(inclding afk bots), please decrease the cps.spam clicking might result in broken machine¹
 
 本树场适用于目前（1.21.5）所有拥有本树场元件的版本
 this tree farm is suitable for every on or before minecraft versions(1.21.5) that includes every components of the tree farm
