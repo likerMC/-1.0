@@ -1,3 +1,8 @@
+第一代双骨粉橡木树场以及所有以前的树场：
+
+for every tree farm and/before the 2 dispenser oak tree farm1.0:
+
+
 在使用树场的时候不要连点 如果需要挂机或者挂假人的话请调低cps¹
 
 if you are using the tree farm and afking(inclding afk bots), please decrease the cps.spam clicking might result in broken machine¹
